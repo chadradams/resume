@@ -4,18 +4,18 @@ chadradams@outlook.com | 816-808-5475
 LinkedIn: https://linkedin.com/in/chadradams
 
 ## PROFESSIONAL SUMMARY
-Principal Software Engineer at Microsoft Frontier Company focused on Healthcare and Life Sciences, helping organizations design and deliver secure, governed, production-ready AI systems. 15+ years of hands-on engineering experience across Healthcare and Life Sciences, Public Health, Financial Services, Manufacturing, and Government, leading initiatives from strategy and architecture through production deployment. Healthcare and Life Sciences experience spans public health organizations, providers, payors, pharmaceutical companies, and life sciences organizations, including FDA- and HIPAA-compliant application delivery, regulated healthcare software processes, HL7 and FHIR interoperability, 21 CFR Part 11 considerations, FDA Class I Software as a Medical Device (SaMD) classification and process, and governance controls for regulated environments. Current focus is enterprise AI architecture, MCP services, multi-agent systems, Responsible AI, security, compliance, auditability, and production-scale platform delivery.
+Principal Software Engineer at Microsoft, working in the Microsoft Frontier Company organization with a focus on Healthcare and Life Sciences, helping organizations design and deliver secure, governed, production-ready AI systems. 15+ years of hands-on engineering experience across Healthcare and Life Sciences, Public Health, Financial Services, Manufacturing, and Government, leading initiatives from strategy and architecture through production deployment. Healthcare and Life Sciences experience spans public health organizations, providers, payors, pharmaceutical companies, and life sciences organizations, including FDA- and HIPAA-compliant application delivery, regulated healthcare software processes, HL7 and FHIR interoperability, 21 CFR Part 11 considerations, FDA Class I Software as a Medical Device (SaMD) classification and process, and governance controls for regulated environments. Current focus is enterprise AI architecture, MCP services, multi-agent systems, Responsible AI, security, compliance, auditability, and production-scale platform delivery.
 
 ## CORE SKILLS
 Healthcare and Life Sciences, HIPAA and PHI Safeguards, HL7 and FHIR Interoperability, FDA-Regulated Software Delivery, 21 CFR Part 11 Compliance, Software as a Medical Device (SaMD) Classification and Process, Regulated Healthcare Software Processes, Public Health and Payor/Provider Solutions, Pharmaceutical and Life Sciences Platforms, Enterprise AI Architecture, Multi-Agent Systems, MCP Services, Responsible AI and Governance, AI Evaluation and Auditability, Security, Privacy, and Compliance Controls, Accessibility, Azure AI, AI Product Engineering, Architecture Decision Sessions (ADS), Engineering Standards and Reviews, Platform Modernization
 
 ## PROFESSIONAL EXPERIENCE
 
-### Microsoft Frontier Company – Kansas City, MO (Remote)
-**Principal Software Engineer, Healthcare and Life Sciences AI Platforms**  
+### Microsoft – Kansas City, MO (Remote)
+**Principal Software Engineer** — Microsoft Frontier Company (Healthcare and Life Sciences)  
 *July 2019 – Present*
 
-- Support Healthcare and Life Sciences initiatives within Microsoft Frontier Company, helping customers adopt governed AI solutions at enterprise scale.
+- Support Healthcare and Life Sciences initiatives within the Microsoft Frontier Company organization, helping customers adopt governed AI solutions at enterprise scale.
 - Deliver enterprise AI platform architecture across Healthcare and Life Sciences, Public Health, Financial Services, Manufacturing, and other highly regulated industries.
 - Architect secure AI platforms, multi-agent systems, and MCP-based services with strong governance, compliance, privacy, auditability, and operational controls.
 - Deliver solutions spanning public health, provider, payor, pharmaceutical, and life sciences organizations, including patient engagement, analytics, collaboration platforms, and conversational AI.
@@ -28,7 +28,7 @@ Healthcare and Life Sciences, HIPAA and PHI Safeguards, HL7 and FHIR Interoperab
 - Serve as a player-coach, mentoring engineers while remaining hands-on in architecture, engineering leadership, and customer delivery.
 
 ### Microsoft – Kansas City, MO (Remote)
-**Associate / Senior Solution Architect, Healthcare and Life Sciences Solutions**  
+**Associate Solution Architect / Senior Solution Architect** — Healthcare and Life Sciences Solutions  
 *July 2015 – June 2019*
 
 - Established enterprise UX, analytics, and emerging AI strategies for customers across healthcare, public sector, manufacturing, and financial services industries.
