@@ -4,7 +4,7 @@ chadradams@outlook.com | 816-808-5475
 LinkedIn: https://linkedin.com/in/chadradams | Microsoft Learn: https://learn.microsoft.com/en-us/users/chadada/
 
 ## PROFESSIONAL SUMMARY
-Principal Software Engineer at Microsoft (Microsoft Frontier Company organization) specializing in Healthcare and Life Sciences AI. 15+ years building regulated healthcare software — from 12+ FDA- and HIPAA-compliant pharmaceutical applications to enterprise AI platforms serving providers, payors, public health agencies, and life sciences organizations at production scale. Author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted across Azure AI and 100,000+ engineers. Trusted by executive stakeholders to take AI from concept to production in environments constrained by HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD requirements — pairing Responsible AI, PHI/PII governance, and human-in-the-loop design with hands-on architecture and engineering leadership.
+Principal Software Engineer at Microsoft, now in the Microsoft Frontier Company organization, selected for Healthcare and Life Sciences on the strength of a 15+ year regulated-industry background. Career built on regulated software delivery — from 12+ FDA- and HIPAA-compliant pharmaceutical applications to enterprise AI platforms delivered at production scale across healthcare, life sciences, public sector, and financial services. Author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted across Azure AI and 100,000+ engineers. Trusted by executive stakeholders to take AI from concept to production in environments constrained by HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD requirements — pairing Responsible AI, PHI/PII governance, and human-in-the-loop design with hands-on architecture and engineering leadership.
 
 ## CORE SKILLS
 **Healthcare & Life Sciences:** PHI and PII Governance · HIPAA-Constrained Delivery · HL7 and FHIR Interoperability · Azure Health Data Services · FDA-Regulated Software Delivery · 21 CFR Part 11 Environments · Software as a Medical Device (SaMD) Classification · Provider, Payor, Public Health, Medical Device, and Pharmaceutical Solutions  
@@ -14,16 +14,17 @@ Principal Software Engineer at Microsoft (Microsoft Frontier Company organizatio
 ## PROFESSIONAL EXPERIENCE
 
 ### Microsoft – Kansas City, MO (Remote)
-**Principal Software Engineer** — Microsoft Frontier Company (Healthcare and Life Sciences)  
-*July 2019 – Present*
+**Principal Software Engineer** — Microsoft Frontier Company (Healthcare and Life Sciences), *July 2026 – Present*  
+**Principal Software Engineer** — Commercial Software Engineering, *July 2019 – June 2026*
 
-- Architect and deliver enterprise AI platforms for Healthcare and Life Sciences customers — spanning providers, payors, public health agencies, pharmaceutical, and life sciences organizations — taking solutions from concept through production deployment.
+- Selected into the Microsoft Frontier Company organization for Healthcare and Life Sciences on the strength of a regulated healthcare and life sciences delivery background.
+- Architect and deliver enterprise AI platforms for customers in regulated industries — healthcare, life sciences, public sector, and financial services — taking solutions from concept through production deployment.
 - Scaled a medical products manufacturing AI platform from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — while sustaining compliance, privacy, and operational controls.
 - Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
 - Designed multi-agent AI experiences that reduced task resolution time by 22–38 percent in Fortune 100 deployments.
-- Deliver solutions within HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD-constrained environments, working alongside regulatory and compliance stakeholders to embed evaluation, auditability, and evidence generation into the platform rather than bolting it on.
+- Deliver solutions in compliance-constrained environments — HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD considerations in healthcare, alongside comparable controls in financial services — working with regulatory and compliance stakeholders to embed evaluation, auditability, and evidence generation into the platform rather than bolting it on.
 - Design human-in-the-loop planning and review patterns for agentic systems, keeping clinical and business experts in control of consequential decisions.
-- Apply Responsible AI and governance controls with PHI and PII data governance — de-identification, data minimization, and residency requirements — across healthcare and life sciences workloads, including solutions built on Azure Health Data Services and Azure AI.
+- Apply Responsible AI and governance controls with PHI, PII, and sensitive-data governance — de-identification, data minimization, and residency requirements — across regulated workloads, including solutions built on Azure Health Data Services and Azure AI.
 - Lead Architecture Decision Sessions with executive stakeholders and engineering leaders, converting regulatory and business constraints into durable architecture and measurable outcomes.
 - Architect secure multi-agent systems and MCP-based services with defense-in-depth and full traceability, backed by governance frameworks that improve audit readiness, security posture, and engineering quality across regulated industries.
 - Serve as player-coach: mentored 10–14 engineers on engineering fundamentals and Copilot-assisted development, improving delivery velocity by 30 percent, while remaining hands-on in architecture and customer delivery.
