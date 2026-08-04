@@ -17,7 +17,7 @@ Principal Software Engineer at Microsoft, now in the Microsoft Frontier Company 
 **Principal Software Engineer** — Microsoft Frontier Company (Healthcare and Life Sciences), *July 2026 – Present*  
 **Principal Software Engineer** — Commercial Software Engineering, *July 2019 – June 2026*
 
-- Selected into the Microsoft Frontier Company organization for Healthcare and Life Sciences on the strength of a regulated healthcare and life sciences delivery background.
+- Selected into the Microsoft Frontier Company organization for Healthcare and Life Sciences on the strength of a regulated healthcare and life sciences delivery background. Currently architecting and building MCP servers for HLS customers, exposing enterprise systems and clinical data to agentic workflows under HIPAA, PHI governance, and auditability constraints.
 - Architect and deliver enterprise AI platforms for customers in regulated industries — healthcare, life sciences, public sector, and financial services — taking solutions from concept through production deployment.
 - Scaled a medical products manufacturing AI platform from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — while sustaining compliance, privacy, and operational controls.
 - Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
