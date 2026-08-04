@@ -18,14 +18,13 @@ Principal Software Engineer at Microsoft (Microsoft Frontier Company organizatio
 *July 2019 – Present*
 
 - Architect and deliver enterprise AI platforms for Healthcare and Life Sciences customers — spanning providers, payors, public health agencies, pharmaceutical, and life sciences organizations — taking solutions from concept through audited production deployment.
-- Scaled AI platforms from prototype to production at enterprise volume, including deployments handling 50M+ monthly API calls, while sustaining compliance, privacy, and operational controls.
+- Scaled AI platforms from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — while sustaining compliance, privacy, and operational controls.
 - Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the Engineering Fundamentals Playbook, adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
 - Designed multi-agent AI experiences that reduced task resolution time by 22–38 percent in Fortune 100 deployments.
 - Deliver solutions in environments governed by HIPAA, FDA, 21 CFR Part 11, HL7/FHIR interoperability, SaMD process, accessibility, and privacy requirements — embedding evaluation, auditability, and evidence generation into the platform rather than bolting it on.
 - Lead Architecture Decision Sessions with executive stakeholders and engineering leaders, converting regulatory and business constraints into durable architecture and measurable outcomes.
-- Build governance frameworks that improve audit readiness, operational readiness, security posture, and engineering quality across regulated industries — reducing delivery and compliance risk.
-- Architect secure multi-agent systems and MCP-based services with defense-in-depth, data minimization, and full traceability for PHI-adjacent workloads.
-- Serve as player-coach: mentor engineers on engineering fundamentals and AI-assisted development while remaining hands-on in architecture and customer delivery.
+- Architect secure multi-agent systems and MCP-based services with defense-in-depth, data minimization, and full traceability for PHI-adjacent workloads, backed by governance frameworks that improve audit readiness, security posture, and engineering quality across regulated industries.
+- Serve as player-coach: mentored 10–14 engineers on engineering fundamentals and Copilot-assisted development, improving delivery velocity by 30 percent, while remaining hands-on in architecture and customer delivery.
 
 ### Microsoft – Kansas City, MO (Remote)
 **Associate Solution Architect / Senior Solution Architect** — Healthcare and Life Sciences Solutions  
