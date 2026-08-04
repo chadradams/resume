@@ -19,11 +19,11 @@ Principal Software Engineer at Microsoft, now in the Microsoft Frontier Company 
 
 - Selected into the Microsoft Frontier Company organization for Healthcare and Life Sciences on the strength of a regulated healthcare and life sciences delivery background. Currently architecting and building MCP servers for HLS customers, exposing enterprise systems and clinical data to agentic workflows under HIPAA, PHI governance, and auditability constraints.
 - Architect and deliver enterprise AI platforms for customers in regulated industries — healthcare, life sciences, public sector, and financial services — taking solutions from concept through production deployment.
-- Scaled a manufacturing intelligence AI platform from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — giving line operators at a health foods manufacturer natural-language access to real-time intake and process telemetry, so they could adjust line settings directly and cut material and resource waste.
+- Design human-in-the-loop planning and review patterns for agentic systems, keeping clinical and business experts in control of consequential decisions — including a production system for a Healthcare and Life Sciences customer serving nearly 50 compliance reviewers for AI-assisted press releases and internal communications, with data residency enforced and PII redacted before model processing.
 - Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
 - Designed multi-agent AI experiences that reduced task resolution time by 22–38 percent in Fortune 100 deployments.
 - Deliver solutions in compliance-constrained environments — HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD considerations in healthcare, alongside comparable controls in financial services — working with regulatory and compliance stakeholders to embed evaluation, auditability, and evidence generation into the platform rather than bolting it on.
-- Design human-in-the-loop planning and review patterns for agentic systems, keeping clinical and business experts in control of consequential decisions — including a production system for a Healthcare and Life Sciences customer serving nearly 50 compliance reviewers for AI-assisted press releases and internal communications, with data residency enforced and PII redacted before model processing.
+- Scaled a manufacturing intelligence AI platform from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — giving line operators at a health foods manufacturer natural-language access to real-time intake and process telemetry, so they could adjust line settings directly and cut material and resource waste.
 - Apply Responsible AI and governance controls with PHI, PII, and sensitive-data governance — de-identification, data minimization, and residency requirements — across regulated workloads, including solutions built on Azure Health Data Services and Azure AI.
 - Lead Architecture Decision Sessions with executive stakeholders and engineering leaders, converting regulatory and business constraints into durable architecture and measurable outcomes.
 - Architect secure multi-agent systems and MCP-based services with defense-in-depth and full traceability, backed by governance frameworks that improve audit readiness, security posture, and engineering quality across regulated industries.
@@ -40,7 +40,7 @@ Principal Software Engineer at Microsoft, now in the Microsoft Frontier Company 
 - Pioneered Responsible AI and ethical design practices that fed into Microsoft's broader AI governance initiatives.
 - Promoted from Associate to Senior on sustained delivery impact; led teams of 4–8 engineers across software and UX disciplines.
 
-### Eversana Intouch – Overland Park, KS
+### Intouch Solutions (now Eversana Intouch) – Overland Park, KS
 **Software Architect (iOS)**  
 *November 2010 – June 2015*
 
