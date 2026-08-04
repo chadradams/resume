@@ -1,48 +1,59 @@
 # CHAD ADAMS  
 Weatherby Lake, Missouri  
 chadradams@outlook.com | 816-808-5475  
-LinkedIn: https://linkedin.com/in/chadradams
+LinkedIn: https://linkedin.com/in/chadradams | Microsoft Learn: https://learn.microsoft.com/en-us/users/chadada/
 
 ## PROFESSIONAL SUMMARY
-Multidisciplinary Engineering Leader and Principal Software Engineer with 15+ years of hands-on software engineering experience and 5+ years of recurring, temporary people-management responsibility leading engineers across software engineering, UX, and applied AI within Microsoft’s Industry Solutions Engineering (ISE) organization. Proven player-coach delivering high-impact, customer co-developed cloud and AI solutions while providing career coaching, performance feedback, and delivery leadership at scale. Deep experience with portfolio leadership, Responsible AI, reusable engineering patterns, and cross-discipline collaboration with customers, Microsoft product teams, and open-source communities.
+Principal Software Engineer at Microsoft, now in the Microsoft Frontier Company organization, selected for Healthcare and Life Sciences on the strength of a 15+ year regulated-industry background. Career built on regulated software delivery — from 12+ FDA- and HIPAA-compliant pharmaceutical applications to enterprise AI platforms delivered at production scale across healthcare, life sciences, public sector, and financial services. Author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted across Azure AI and 100,000+ engineers. Trusted by executive stakeholders to take AI from concept to production in environments constrained by HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD requirements — pairing Responsible AI, PHI/PII governance, and human-in-the-loop design with hands-on architecture and engineering leadership.
 
 ## CORE SKILLS
-People Management and Coaching, Multidisciplinary Team Leadership, Portfolio and Delivery Leadership, Software Engineering, AI Platforms, Cloud Engineering, Responsible AI, Customer Co-Development, Engineering Excellence, Agile Delivery
+**Healthcare & Life Sciences:** PHI and PII Governance · HIPAA-Constrained Delivery · HL7 and FHIR Interoperability · Azure Health Data Services · FDA-Regulated Software Delivery · 21 CFR Part 11 Environments · Software as a Medical Device (SaMD) Classification · Provider, Payor, Public Health, Pharmaceutical, and Medical Device Solutions  
+**AI & Platform:** Enterprise AI Architecture · Multi-Agent Systems · Human-in-the-Loop Planning and Design · MCP Services · Azure AI · AI Evaluation and Observability · AI Product Engineering · Platform Modernization  
+**Governance & Delivery:** Responsible AI · Governance Controls · Auditability · Security, Privacy, and Compliance Controls · Accessibility · Architecture Decision Sessions (ADS) · Engineering Standards and Reviews · Technical Mentorship
 
 ## PROFESSIONAL EXPERIENCE
 
 ### Microsoft – Kansas City, MO (Remote)
-**Principal Software Engineer, AI Platform and Frontend Architecture (MCAPS – ISE)**  
-*July 2019 – Present*
+**Principal Software Engineer** — Microsoft Frontier Company (Healthcare and Life Sciences), *July 2026 – Present*  
+**Principal Software Engineer** — Commercial Software Engineering, *July 2019 – June 2026*
 
-- Led delivery of AI and cloud-based customer solutions across multiple ISE engagements using a portfolio mindset to maximize customer and Microsoft value.
-- Provided acting people-management coverage for engineers across engagements, including career coaching, performance feedback, onboarding, and growth planning in coordination with discipline managers.
-- Trained and mentored 10–14 engineers on engineering fundamentals, Copilot-assisted development, and Hyper Velocity Engineering (HVE) compliance, improving delivery velocity by 30 percent.
-- Authored Microsoft’s canonical AI UX engineering standards adopted by Azure AI, ISE, and over 100,000 engineers globally.
-- Architected multi-agent AI user interfaces delivering 22–38 percent faster resolution across Fortune 100 deployments.
-- Led enterprise AI platforms from prototype to production scale, including 50M+ monthly API calls and $8M+ annualized revenue.
-- Championed Responsible AI practices, achieving audit readiness and reducing delivery risk.
+- Selected into the Microsoft Frontier Company organization for Healthcare and Life Sciences on the strength of a regulated healthcare and life sciences delivery background. Currently architecting and building MCP servers for HLS customers, exposing enterprise systems and clinical data to agentic workflows under HIPAA, PHI governance, and auditability constraints.
+- Architect and deliver enterprise AI platforms for customers in regulated industries — healthcare, life sciences, public sector, and financial services — taking solutions from concept through production deployment.
+- Design human-in-the-loop planning and review patterns for agentic systems, keeping clinical and business experts in control of consequential decisions — including a production system for a Healthcare and Life Sciences customer serving nearly 50 compliance reviewers for AI-assisted press releases and internal communications, with data residency enforced and PII redacted before model processing.
+- Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
+- Designed multi-agent AI experiences that reduced task resolution time by 22–38 percent in Fortune 100 deployments.
+- Deliver solutions in compliance-constrained environments — HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD considerations in healthcare, alongside comparable controls in financial services — working with regulatory and compliance stakeholders to embed evaluation, auditability, and evidence generation into the platform rather than bolting it on.
+- Scaled a manufacturing intelligence AI platform from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — giving line operators at a health foods manufacturer natural-language access to real-time intake and process telemetry, so they could adjust line settings directly and cut material and resource waste.
+- Apply Responsible AI and governance controls with PHI, PII, and sensitive-data governance — de-identification, data minimization, and residency requirements — across regulated workloads, including solutions built on Azure Health Data Services and Azure AI.
+- Lead Architecture Decision Sessions with executive stakeholders and engineering leaders, converting regulatory and business constraints into durable architecture and measurable outcomes.
+- Architect secure multi-agent systems and MCP-based services with defense-in-depth and full traceability, backed by governance frameworks that improve audit readiness, security posture, and engineering quality across regulated industries.
+- Serve as player-coach: mentored 10–14 engineers on engineering fundamentals and Copilot-assisted development, improving delivery velocity by 30 percent, while remaining hands-on in architecture and customer delivery.
 
 ### Microsoft – Kansas City, MO (Remote)
-**Associate / Senior Solution Architect, AI, UX Strategy, and Data Visualization (MCAPS – ISD)**  
+**Associate Solution Architect / Senior Solution Architect** — Healthcare and Life Sciences Solutions  
 *July 2015 – June 2019*
 
-- Served in recurring acting and temporary engineering manager roles over a cumulative 5+ year period, leading teams of 4–8 engineers across software and UX disciplines.
-- Owned career development, performance feedback, onboarding, and delivery execution during periods of transition and scale.
-- Partnered with technical program managers and account leadership on portfolio planning, prioritization, and delivery health.
+- Set enterprise UX, analytics, and early AI strategy for healthcare, public health, and other regulated customers, leading digital transformation and application modernization programs.
+- Delivered the MetLife Pet cross-platform insurance application for iOS and Android using Xamarin Forms, covering enrollment, claims, and policy management for a regulated insurance product.
+- Delivered executive analytics and operational visualization solutions using Power BI, D3.js, and Apache ECharts, giving healthcare leaders decision-grade visibility.
 - Managed a $2M+ portfolio of design systems and analytics solutions, reducing production defects by 40 percent.
-- Promoted from Associate to Senior through sustained delivery impact and cross-team leadership.
+- Pioneered Responsible AI and ethical design practices that fed into Microsoft's broader AI governance initiatives.
+- Promoted from Associate to Senior on sustained delivery impact; led teams of 4–8 engineers across software and UX disciplines.
 
-### Eversana Intouch – Overland Park, KS
+### Intouch Solutions (now Eversana Intouch) – Overland Park, KS
 **Software Architect (iOS)**  
 *November 2010 – June 2015*
 
-- Delivered 12+ FDA and HIPAA-compliant mobile applications with budgets up to $1M.
-- Defined architecture standards improving delivery velocity by 25 percent and reducing defects by 30 percent.
+- Delivered 12+ FDA- and HIPAA-compliant mobile applications for pharmaceutical and healthcare organizations, with budgets up to $1M.
+- Built digital sales aids for pharmaceutical companies that had to clear FDA medical, legal, and regulatory review — requiring pixel-perfect iOS execution so approved claims, imagery, and safety information rendered exactly as submitted.
+- Architected native iOS solutions supporting regulated life sciences workflows, including Sanofi GoMeals — an FDA Class I Software as a Medical Device (SaMD) diabetes nutrition and glucose tracking application.
+- Integrated enterprise CRM platforms supporting pharmaceutical field engagement and HCP interactions, capturing compliant interaction records for downstream reporting.
+- Defined mobile architecture and engineering standards that increased delivery velocity by 25 percent and reduced defects by 30 percent.
+- Led and mentored engineering teams, scaling the organization's mobile development capability.
 
 ## EDUCATION
-Executive MBA, Business Administration – Quantic School of Business and Technology
+Executive MBA, Business Administration – Quantic School of Business and Technology  
 Bachelor of Fine Arts – University of Central Missouri
 
 ## CERTIFICATIONS
-Microsoft Certified Azure AI Engineer Associate; Microsoft Certified Azure Developer Associate; GitHub Copilot Certified
+Microsoft Certified Azure AI Engineer Associate; Microsoft Certified Azure Developer Associate; GitHub Copilot Certified — verifiable at https://learn.microsoft.com/en-us/users/chadada/
