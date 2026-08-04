@@ -1,10 +1,10 @@
 # CHAD ADAMS  
 Weatherby Lake, Missouri  
 chadradams@outlook.com | 816-808-5475  
-LinkedIn: https://linkedin.com/in/chadradams
+LinkedIn: https://linkedin.com/in/chadradams | Microsoft Learn: https://learn.microsoft.com/en-us/users/chadada/
 
 ## PROFESSIONAL SUMMARY
-Principal Software Engineer at Microsoft (Microsoft Frontier Company organization) specializing in Healthcare and Life Sciences AI. 15+ years building regulated healthcare software — from 12+ FDA- and HIPAA-compliant pharmaceutical applications to enterprise AI platforms serving providers, payors, public health agencies, and life sciences organizations at production scale. Author of Microsoft's AI UX and Multi-Agent Systems engineering guidance, adopted across Azure AI and 100,000+ engineers. Trusted by executive stakeholders to take AI from concept to production in environments constrained by HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD requirements — pairing Responsible AI, PHI/PII governance, and human-in-the-loop design with hands-on architecture and engineering leadership.
+Principal Software Engineer at Microsoft (Microsoft Frontier Company organization) specializing in Healthcare and Life Sciences AI. 15+ years building regulated healthcare software — from 12+ FDA- and HIPAA-compliant pharmaceutical applications to enterprise AI platforms serving providers, payors, public health agencies, and life sciences organizations at production scale. Author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted across Azure AI and 100,000+ engineers. Trusted by executive stakeholders to take AI from concept to production in environments constrained by HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD requirements — pairing Responsible AI, PHI/PII governance, and human-in-the-loop design with hands-on architecture and engineering leadership.
 
 ## CORE SKILLS
 **Healthcare & Life Sciences:** PHI and PII Governance · HIPAA-Constrained Delivery · HL7 and FHIR Interoperability · Azure Health Data Services · FDA-Regulated Software Delivery · 21 CFR Part 11 Environments · Software as a Medical Device (SaMD) Classification · Provider, Payor, Public Health, Medical Device, and Pharmaceutical Solutions  
@@ -19,7 +19,7 @@ Principal Software Engineer at Microsoft (Microsoft Frontier Company organizatio
 
 - Architect and deliver enterprise AI platforms for Healthcare and Life Sciences customers — spanning providers, payors, public health agencies, pharmaceutical, and life sciences organizations — taking solutions from concept through production deployment.
 - Scaled a medical products manufacturing AI platform from prototype to production at enterprise volume — 50M+ monthly API calls and $8M+ in annualized revenue — while sustaining compliance, privacy, and operational controls.
-- Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the Engineering Fundamentals Playbook, adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
+- Sole author of Microsoft's AI UX and Multi-Agent Systems engineering guidance in the [Code With Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/), adopted by Azure AI and 100,000+ engineers globally, establishing the reference standard for how Microsoft builds agentic systems.
 - Designed multi-agent AI experiences that reduced task resolution time by 22–38 percent in Fortune 100 deployments.
 - Deliver solutions within HIPAA, FDA, 21 CFR Part 11, HL7/FHIR, and SaMD-constrained environments, working alongside regulatory and compliance stakeholders to embed evaluation, auditability, and evidence generation into the platform rather than bolting it on.
 - Design human-in-the-loop planning and review patterns for agentic systems, keeping clinical and business experts in control of consequential decisions.
@@ -45,7 +45,7 @@ Principal Software Engineer at Microsoft (Microsoft Frontier Company organizatio
 
 - Delivered 12+ FDA- and HIPAA-compliant mobile applications for pharmaceutical and healthcare organizations, with budgets up to $1M.
 - Built digital sales aids for pharmaceutical companies that had to clear FDA medical, legal, and regulatory review — requiring pixel-perfect iOS execution so approved claims, imagery, and safety information rendered exactly as submitted.
-- Architected native iOS solutions supporting regulated life sciences workflows, including FDA Class I Software as a Medical Device (SaMD) classification considerations.
+- Architected native iOS solutions supporting regulated life sciences workflows, including Sanofi GoMeals — an FDA Class I Software as a Medical Device (SaMD) diabetes nutrition and glucose tracking application.
 - Integrated enterprise CRM platforms supporting pharmaceutical field engagement and HCP interactions, capturing compliant interaction records for downstream reporting.
 - Defined mobile architecture and engineering standards that increased delivery velocity by 25 percent and reduced defects by 30 percent.
 - Led and mentored engineering teams, scaling the organization's mobile development capability.
@@ -55,4 +55,4 @@ Executive MBA, Business Administration – Quantic School of Business and Techno
 Bachelor of Fine Arts – University of Central Missouri
 
 ## CERTIFICATIONS
-Microsoft Certified Azure AI Engineer Associate; Microsoft Certified Azure Developer Associate; GitHub Copilot Certified
+Microsoft Certified Azure AI Engineer Associate; Microsoft Certified Azure Developer Associate; GitHub Copilot Certified — verifiable at https://learn.microsoft.com/en-us/users/chadada/
