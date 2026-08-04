@@ -33,7 +33,7 @@ Principal Software Engineer at Microsoft (Microsoft Frontier Company organizatio
 *July 2015 – June 2019*
 
 - Set enterprise UX, analytics, and early AI strategy for healthcare, public health, and other regulated customers, leading digital transformation and application modernization programs.
-- Delivered a cross-platform medical insurance application for iOS and Android using Xamarin Forms, covering enrollment, claims, and policy management for a regulated insurance product.
+- Delivered the MetLife Pet cross-platform insurance application for iOS and Android using Xamarin Forms, covering enrollment, claims, and policy management for a regulated insurance product.
 - Delivered executive analytics and operational visualization solutions using Power BI, D3.js, and Apache ECharts, giving healthcare leaders decision-grade visibility.
 - Managed a $2M+ portfolio of design systems and analytics solutions, reducing production defects by 40 percent.
 - Pioneered Responsible AI and ethical design practices that fed into Microsoft's broader AI governance initiatives.
